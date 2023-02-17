@@ -46,14 +46,14 @@ In the above figure, home PC was first used to browse into an open source websit
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows a resource groups been created in Azure with the aim of setting up a virtual machine that was then connected with home PC using RDC(Remote Desktop Connection).
+The above figure shows a resource groups been created in Azure with the aim of setting up a virtual machine that was then connected with home PC using RDC(Remote Desktop Connection). In creating the resource group, an option of choosing a subscription was given as shown above (Azure for student) and the resource group was named RG-Lab-1 and London as its region depending where the organisation data centre was based. Notably, some countries have some strict rules that prevent organisation from shifting any of its resources outside its region.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/FYse1nt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storage with the functionality of a google drive but resources are azure version of that with more capability.
 </p>
 <br />
