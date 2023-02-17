@@ -30,13 +30,14 @@ This tutorial outlines setup and usage of VPN (Proton) within Azure Virtual Mach
 - Using Proton VPN Server in Azure to browse into (whatismyipaddress.com)
 - 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Setup and Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/bGVSNxB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dtYNXAM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The figure above shows 
+In the above figure, home PC was first used to browse into an open source website (whatismyipaddress) with the aim of documenting its IP-address. Again, 
 </p>
 <br />
 
@@ -44,7 +45,7 @@ The figure above shows
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+The above figure shows a virtual machine that was created in Azure then using some network protocol such as RDP
 </p>
 <br />
 
