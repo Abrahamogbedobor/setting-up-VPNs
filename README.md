@@ -25,7 +25,7 @@ This tutorial outlines setup and usage of VPN (Proton) within Azure Virtual Mach
 <h2>VPN Usage and Configuration Steps</h2>
 
 - Documenting IP Address of Home Computer Using open source website (whatismyipddress.com) 
-- Connecting Home Computer with Microsoft Azure Using RDC (Then re-browse into whatismyipaddress.com)
+- Connecting Home Computer with Microsoft Azure VMs Using RDC (Then re-browse into whatismyipaddress.com)
 - Signing up and Download of Proton VPN Client on Microsoft Azure
 - Using Proton VPN Server in Azure to browse into (whatismyipaddress.com)
 - 
@@ -42,10 +42,11 @@ In the above figure, home PC was first used to browse into an open source websit
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rFx9wGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows a virtual machine that was created in Azure then using some network protocol such as RDP
+The above figure shows a resource groups been created in Azure with the aim of setting up a virtual machine that was then connected with home PC using RDC(Remote Desktop Connection).
 </p>
 <br />
 
