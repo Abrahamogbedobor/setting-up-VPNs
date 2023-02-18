@@ -68,10 +68,11 @@ As shown above the text file named vpn-lab1.txt was stored inside a resource con
 <br />
 
 <p>
-<img src="https://i.imgur.com/QbIzjDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bhqwJB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PrTg2Ho.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storing fils with wide range of functionality. Notably, resources in azure could be related to a google drive with more capability. In this lab, the resource named abrahamlab is been used as a folder where a bunch of files are stored.
+In other not to incurred too much cost and overused the available credit as this lab was done under free subscription, the baove figure shows how resource grouop was deleted after each successful lab has been done. Also, figure2 above shows cost analysis that enables organiosation to know what resources is costing them more and hiow to reduce it.
 </p>
 <br />
 
