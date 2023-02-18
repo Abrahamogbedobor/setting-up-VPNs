@@ -80,6 +80,15 @@ In other not to incurred too much cost and overused the available credit as this
 <img src="https://i.imgur.com/bhqwJB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Haven't succesfully connected to azure, the above figure shows the steps used in creating virtual machine in azure then using RDP to connect home PC with the VMs that was created. Thereafter, the IP address of the VM after RDP connection was then be documented on a textfile as shown above.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/bhqwJB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 The above step involves connecting azure virtual machine to home pc using RDP (Remote Desktop Protocol). After the above connection, the open source website WHATISMYIPADDRESS.COM was then browse to document the VMs IP address as shown above.
 </p>
 <br />
