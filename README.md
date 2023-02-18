@@ -55,6 +55,24 @@ The above figure shows a resource groups been created in Azure with the aim of s
 <img src="https://i.imgur.com/EJw69EA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storage wide range of functionality. Notably, resources in azure could be related to a google drive with more capability. In this lab, the resource named abrahamlab is been used as a folder where a bunch of files are stored.
+The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storing fils with wide range of functionality. Notably, resources in azure could be related to a google drive with more capability. In this lab, the resource named abrahamlab is been used as a folder where a bunch of files are stored.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3nWuAVG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As shown above the text file named vpn-lab1.txt was stored inside a resource container vpn. Notably, the file is been opened and could be edited, downloaded and share within and outside the organisation as well as many more functionalities.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QbIzjDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storing fils with wide range of functionality. Notably, resources in azure could be related to a google drive with more capability. In this lab, the resource named abrahamlab is been used as a folder where a bunch of files are stored.
+</p>
+<br />
+
+
