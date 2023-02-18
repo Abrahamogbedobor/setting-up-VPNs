@@ -43,7 +43,7 @@ In the above figure, home PC was first used to browse into an open source websit
 
 <p>
 <img src="https://i.imgur.com/rFx9wGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gjsmhvE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The above figure shows a resource groups been created in Azure with the aim of setting up a virtual machine that was then connected with home PC using RDC(Remote Desktop Connection). In creating the resource group, an option of choosing a subscription was given as shown above (Azure for student) and the resource group was named RG-Lab-1 and London as its region depending where the organisation data centre was based. Notably, some countries have some strict rules that prevent organisation from shifting any of its resources outside its region.
@@ -51,9 +51,10 @@ The above figure shows a resource groups been created in Azure with the aim of s
 <br />
 
 <p>
-<img src="https://imgur.com/a/FYse1nt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QbIzjDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EJw69EA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storage with the functionality of a google drive but resources are azure version of that with more capability.
+The above figure is a resource created inside the resource group container (RG-Lab-1). This resource is referred to as storage account that is used for storage wide range of functionality. Notably, resources in azure could be related to a google drive with more capability. In this lab, the resource named abrahamlab is been used as a folder where a bunch of files are stored.
 </p>
 <br />
