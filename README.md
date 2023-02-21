@@ -92,6 +92,23 @@ After succesful connection to azure, the inputed credentials of the VMs to be cr
 <img src="https://i.imgur.com/0mtDUjq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above steps involves connecting azure virtual machine to home PC using RDP (Remote Desktop Protocol). First, the public IP address of the newly created VM named 'vpn-lab' was copied then, microsoft remote desktop was lauched with the copied VM IP address (104.47.141.101). A new RDC was innitiated as shown above using same username and password that was used when creating the virtual machine in MS azure.  The open source website WHATISMYIPADDRESS.COM was then browse to document the VMs IP address as shown above.
+The above steps involves connecting azure virtual machine to home PC using RDP (Remote Desktop Protocol). First, the public IP address of the newly created VM named 'vpn-lab' was copied then, microsoft remote desktop was lauched with the public IP address (104.47.141.101). A new RDC was innitiated as shown above using same username and password that was used when creating the virtual machine in MS azure.  The open source website WHATISMYIPADDRESS.COM was then browse to document the VMs IP address as shown above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dnASjyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0kCc1a2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Any browser of choice on the virtual machine was used to re-visit WHATISMYIPADDRESS.COM open source site as shown above. This then gives two different IP address in the course of this lab using same PC as shown above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3nWuAVG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As shown above the text file named vpn-lab1.txt was stored inside a resource container vpn. Notably, the file is been opened and could be edited, downloaded and share within and outside the organisation as well as many more functionalities.
 </p>
 <br />
