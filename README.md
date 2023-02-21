@@ -15,7 +15,6 @@ This tutorial outlines setup and usage of VPN (Proton) within Azure Virtual Mach
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Proton VPN Server
-- PowerShell
 
 <h2>Operating Systems Used</h2>
 
