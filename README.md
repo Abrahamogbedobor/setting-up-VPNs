@@ -129,7 +129,7 @@ after proton vpn sign up on home computer, the url was then copied to VM using t
 <img src="https://i.imgur.com/xnX3K6e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows a connection to a VPN Client Server in Japan using Proton-vpn. Notably, there were several countries to choose from depending on server and connection strenght however, this lab uses a tunnel to create a connection from azure VM to a proton vpn server in Japan as shown in the above figure.
+The above figure shows a connection to a VPN Client Server in Japan with the help of remote desktop connection (RDC). Notably, there were several countries to choose from depending on server and connection strenght however, this lab uses a tunnel to create a connection from azure VM to a proton vpn server in Japan as shown in the above figure.
 </p>
 <br />
 
