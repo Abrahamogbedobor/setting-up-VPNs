@@ -134,10 +134,11 @@ The above figure shows a connection to a VPN Client Server in Japan with the hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/W82lz37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nIkHN8L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ENKP3g4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The
+Finally, all the browsing histroy on home PC will be routed through the vpn server in Japan. For example, re-visiting WHATISMYIPADDRESS.COM to document a third ip address on this lab shows that we now browsing from Tokyo in Japan.
 </p>
 <br />
 
