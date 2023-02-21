@@ -107,9 +107,27 @@ Any browser of choice on the virtual machine was used to re-visit WHATISMYIPADDR
 <br />
 
 <p>
-<img src="https://i.imgur.com/3nWuAVG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Pnxr5OM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+In other to connect to VPN, this lab requires downloading proton-vpn on actual PC (London, England) then using the sign-up details to log into the VM that was created. The reason for not doing proton setup on VM was because the security of proton will assume i am in Netherland and that might make it hard for the signup process as it requires netherland mobile due to localisation. From the above picture, the wordings on proton vpn google search was not written in english due to localisation hence, this will make it hard to read the signup requirement.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/N2jVTru.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SEnZB0F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cLeOQsf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+after proton vpn sign up on home computer, the url was then copied to VM using the login details to re-signed back to proton in other to download vpn-client (an app that enables connection to vpn) as shown above. After a scuccessful download, same login details was then used to log into vpn client.
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In other to connect to VPN,
+</p>
+<br />n cl
