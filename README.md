@@ -101,7 +101,7 @@ The above steps involves connecting azure virtual machine to home PC using RDP (
 <img src="https://i.imgur.com/0kCc1a2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Any browser of choice on the virtual machine was used to re-visit WHATISMYIPADDRESS.COM open source site as shown above. This then gives two different IP address in the course of this lab using same PC as shown above.
+Any browser of choice on the virtual machine was used to re-visit WHATISMYIPADDRESS.COM open source site as shown above. This then gives two different IP address in the course of this lab using same PC as shown above. First ip address was from virtual machine (Netherland), second IP address was from the original location of the PC (England).
 </p>
 <br />
 
