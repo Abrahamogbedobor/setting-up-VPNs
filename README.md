@@ -77,18 +77,21 @@ In other not to incurred too much cost and overused the available credit as this
 <br />
 
 <p>
-<img src="https://i.imgur.com/bhqwJB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CwXixKY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cZVsJvm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MU9itmX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Haven't succesfully connected to azure, the above figure shows the steps used in creating virtual machine in azure then using RDP to connect home PC with the VMs that was created. Thereafter, the IP address of the VM after RDP connection was then be documented on a textfile as shown above.
+After succesful connection to azure, the inputed credentials of the VMs to be created was then validated before been deployed as shown above.
 </p>
 <br />
 
-
 <p>
-<img src="https://i.imgur.com/bhqwJB7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xwtYehc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pmQl7RS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0mtDUjq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above step involves connecting azure virtual machine to home pc using RDP (Remote Desktop Protocol). After the above connection, the open source website WHATISMYIPADDRESS.COM was then browse to document the VMs IP address as shown above.
+The above steps involves connecting azure virtual machine to home PC using RDP (Remote Desktop Protocol). First, the public IP address of the newly created VM named 'vpn-lab' was copied then, microsoft remote desktop was lauched with the copied VM IP address (104.47.141.101). A new RDC was innitiated as shown above using same username and password that was used when creating the virtual machine in MS azure.  The open source website WHATISMYIPADDRESS.COM was then browse to document the VMs IP address as shown above.
 </p>
 <br />
