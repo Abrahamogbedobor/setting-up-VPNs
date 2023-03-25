@@ -3,16 +3,11 @@
 </p>
 
 <h1>Virtual Private Networks(VPN) Setup and Usage in Azure</h1>
-This tutorial outlines setup and usage of VPN (Proton) within Azure Virtual Machines.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Set-up and use VPNs within Azure Computer](https://www.youtube.com)
+This project outlines setup and usage of VPN (Proton) within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Proton VPN Server
 
